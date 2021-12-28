@@ -52,4 +52,4 @@ Have no experience
     +JavaScript/Front-end Course (in progress)
 ===
 ##English## 
-English level - B1
+English level - B1 
