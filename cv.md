@@ -1,21 +1,24 @@
 # rsschool-cv
 
-#Antonina Vaniukova#
+# Antonina Vaniukova
 ===
-##Contacts##
+## Contacts
 ===
-*Location: Minsk, Belarus \
-*Phone: +375 29 507-36-66 \
-*Email: antoninavan93@gmail.com \
-*GitHub: AntoninaVan\
+* Location: Minsk, Belarus 
+* Phone: +375 29 507-36-66 
+* Email: antoninavan93@gmail.com 
+* GitHub: AntoninaVan
 ===
-##About me## 
-I am 29 years old. Graduated from bntu as manager. I have been working as personnel manages since 2014/ Now i understand that i want to chage something in my life. I want to become JS:)
+## About me
+
+I am 29 years old. Graduated from bntu as manager. I have been working as personnel manages since 2014. Now i understand that i want to chage something in my life. I want to become JS:)
 ===
-##Skills##
+## Skills
+
 I have no skills in JS but i am in progress
 ===
-##Code examples##
+## Code examples
+
 ```
 class Ideone {
     public static void main(String[] args) throws java.lang.Exception {
@@ -42,14 +45,16 @@ class Ideone {
 }
 ```
 ====
-###Work experience### 
+## Work experience
+
 Have no experience
 ===
-##Education and courses:##
-*Belarusian National Technical University \
-*Courses: \
-    +Social Media Marketing \
-    +JavaScript/Front-end Course (in progress)\
+## Education and courses:
+
+* Belarusian National Technical University 
+* Courses: 
+    + Social Media Marketing 
+    + JavaScript/Front-end Course (in progress) 
 ===
-##English## 
+## English 
 English level - B1 
